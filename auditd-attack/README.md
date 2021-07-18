@@ -16,7 +16,7 @@ Please ensure you test these rules prior to pushing them into production. This r
 
 [Eric Gershman](https://github.com/EricGershman/auditd-examples)
 
-[iase.disa.mil](https://iase.disa.mil/stigs/os/unix-linux/Pages/red-hat.aspx)
+[DISA STIG](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=operating-systems%2Cunix-linux)
 
 [cyb3rops](https://gist.github.com/Neo23x0/9fe88c0c5979e017a389b90fd19ddfee)
 
